@@ -5,4 +5,4 @@ for (( c=1; c<=5; c++ ))
 do  
    echo "Welcome $c to release the Jenkins class"
 done
-echo "trigger test tuesday"
+echo "trigger test tuesday XXX"
